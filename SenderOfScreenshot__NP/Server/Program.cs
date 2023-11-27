@@ -1,0 +1,3 @@
+﻿using Server;
+
+Functions.GetScreenshot();
