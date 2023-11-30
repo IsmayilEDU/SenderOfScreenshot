@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "RVsBcfQGrmEzeM6GZFOtBzeFU/Y+yctfNuz254mmpiBDWSYFqpW7Dy0HvsxsnjFjQIjc7LMH7+RUopISnuaY3w==",
+  "dgSpecHash": "DGQif8rcKXPnZMlBq7tsn+XtuglVMd+C1bZkzBBvNEkmX7yMo8uftBiuzeZeTUZvncc+TyD5onpasUpoSqzsXA==",
   "success": true,
   "projectFilePath": "C:\\Ismayil\\PROJECTS\\StepIT\\10.NetworkProgramming\\Lesson 2 - TCP and UDP\\SenderOfScreenshot_NP\\SenderOfScreenshot__NP\\Client\\Client.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI NOTEBOOK\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\MSI NOTEBOOK\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
